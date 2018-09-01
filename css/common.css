@@ -1,0 +1,33 @@
+/* CSS Document */
+
+.itemBox {
+	/*border:solid;
+	border-color: #C0C0C0;
+	border-width: thin;
+	*/
+	width:400px;
+	float:left;
+}
+.prodname{
+	width: 300px;
+	height: 26px;
+    border-bottom: 1px solid #AFAFAF;
+	float:left;
+}
+.prodcount{
+	width: 100px;
+	height: 26px;
+    border-bottom: 1px solid #AFAFAF;
+	float:left;
+}
+.prodprodcost{
+	width: 200px;
+	height: 26px;
+	float:left;
+}
+.clear{
+	clear:both;
+}
+.prodtypelabel{
+	
+}
